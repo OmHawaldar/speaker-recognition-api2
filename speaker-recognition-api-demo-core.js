@@ -45,7 +45,7 @@ var qs = (function(a) {
 })(window.location.search.substr(1).split('&'));
 
 // Get the Cognitive Services key from the querystring
-var key = 'a7320d65a60c42219079c9e1011bbdfd';
+var key = ;
 var baseApi = 'https://centralindia.api.cognitive.microsoft.com/';
 
 // Speaker Recognition API profile configuration - constructs to make management easier
